@@ -1,5 +1,5 @@
 # XJTU_BBS
-Name:Jiang Tianzhao
+Author:Jiang Tianzhao
 Job:Student
 School:Xi'an Jiaotong University
 
